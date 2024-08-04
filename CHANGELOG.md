@@ -6,6 +6,11 @@
 
 ### Compiler
 
+- On the JavaScript target, non-byte aligned integers in bit array patterns are
+  now reported as a compile-time error.
+
+  ([Richard Viney](https://github.com/richard-viney))
+
 ### Formatter
 
 ### Language Server
